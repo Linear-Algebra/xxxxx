@@ -710,29 +710,29 @@
                     "name": "研究生导师审批",
                     "percent": 30,
                     "status": null,
-                    "done": null,
-                    "current": null
+                    "done": true,
+                    "current": true
                 },
                 {
                     "name": "院系副书记审批",
                     "percent": 60,
                     "status": null,
-                    "done": null,
-                    "current": null
+                    "done": true,
+                    "current": true
                 },
                 {
                     "name": "研究生院负责人审批",
                     "percent": 70,
                     "status": null,
-                    "done": null,
-                    "current": null
+                    "done": true,
+                    "current": true
                 },
                 {
                     "name": "审批通过，允许返校",
                     "percent": 100,
                     "status": null,
-                    "done": null,
-                    "current": null
+                    "done": true,
+                    "current": true
                 }
             ],
             "owner": {

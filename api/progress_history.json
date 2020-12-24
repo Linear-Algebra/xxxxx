@@ -130,21 +130,29 @@
                 {
                     "name": "研究生导师审批",
                     "percent": 30,
+                    "done": true,
+                    "current": true,
                     "nameIn": ""
                 },
                 {
                     "name": "院系副书记审批",
                     "percent": 60,
+                    "done": true,
+                    "current": true,
                     "nameIn": ""
                 },
                 {
                     "name": "研究生院负责人审批",
                     "percent": 70,
+                    "done": true,
+                    "current": true,
                     "nameIn": ""
                 },
                 {
                     "name": "审批通过，允许返校",
                     "percent": 100,
+                    "done": true,
+                    "current": true,
                     "nameIn": ""
                 }
             ],
